@@ -1,7 +1,5 @@
 # 🚗⚡ Optimal EV Charging Station Placement
 
-![Dashboard Preview](figures/dashboard.png)
-
 ## 📋 Table of Contents
 
 - [About The Project](#about-the-project)
@@ -328,47 +326,3 @@ We extend our gratitude to:
 - **German Federal Network Agency** for EV charging station data
 - **Humanitarian Data Exchange** for demographic data
 - **Meta Data for Good** for additional socio-economic indicators
-
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@INPROCEEDINGS{10607132,
-  author={Maurya, Akansh and Agnes, Cicy Kuriakose and Baloch, Bahram Khan and Anwari, Saira Sohail and Butt, Umer},
-  booktitle={2024 International Conference on Social and Sustainable Innovations in Technology and Engineering (SASI-ITE)}, 
-  title={Spatial-Economic Analysis for Optimal Electric Vehicle Charging Station Placement}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={339-344},
-  keywords={Technological innovation;Local government;Pipelines;Charging stations;Data collection;Electric vehicle charging;Data models;Machine Learning;Open street map;Germany;EV charging station placement},
-  doi={10.1109/SASI-ITE58663.2024.00071}
-}
-```
-
-## 📞 Contact
-
-- **Project Lead**: Akansh Maurya - akanshmaurya@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/akansh12/data-science-Optimal-EV-station-placement/issues)
-- **Live Dashboard**: [Hugging Face Spaces](https://huggingface.co/spaces/Saira20/Optimal-EV-charging-stations)
-
----
-
-<div align="center">
-  <p>Made with ❤️ by Group 7, Data Science 2023, Saarland University</p>
-  <p>Contributing to sustainable transportation through data science</p>
-</div>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/akansh12/data-science-Optimal-EV-station-placement
-[contributors-url]: https://github.com/akansh12/data-science-Optimal-EV-station-placement/graphs/contributors
-
-[forks-shield]: https://img.shields.io/github/forks/akansh12/data-science-Optimal-EV-station-placement
-[forks-url]: https://github.com/akansh12/data-science-Optimal-EV-station-placement/forks
-
-[stars-shield]: https://img.shields.io/github/stars/akansh12/data-science-Optimal-EV-station-placement
-[stars-url]: https://github.com/akansh12/data-science-Optimal-EV-station-placement/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/akansh12/data-science-Optimal-EV-station-placement
-[issues-url]: https://github.com/akansh12/data-science-Optimal-EV-station-placement/issues
