@@ -310,19 +310,3 @@ results = optimizer.optimize(city_data, predictions)
 - **Budget Utilization**: 100%
 - **Average Distance**: 350m between stations
 
-## 👥 Team Members
-
-1. **Bahram Khan Baloch** (7047281) - Data Engineering & ML Pipeline
-2. **Saira Sohail Anwari** (7047706) - Dashboard Development & Visualization
-3. **Umer Butt** (7024124) - Optimization Algorithms & Mathematical Modeling
-4. **Cicy Kuriakose Agnes** (7047703) - Data Collection & EDA
-5. **Akansh Maurya** (7047939) - Project Lead & Integration
-
-## 🙏 Acknowledgments
-
-We extend our gratitude to:
-- **Prof. Dr.-Ing. Wolfgang Maaß** and tutors of Data Science course 2023 at Saarland University
-- **OpenStreetMap** community for geospatial data
-- **German Federal Network Agency** for EV charging station data
-- **Humanitarian Data Exchange** for demographic data
-- **Meta Data for Good** for additional socio-economic indicators
