@@ -1,31 +1,6 @@
 # 🚗⚡ Optimal EV Charging Station Placement
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement">
-    <img src="figures/saarland-log.png" alt="Logo" width="300" height="115">
-  </a>
-
-  <h3 align="center">Spatial-Economic Analysis for Optimal EV Charging Station Placement</h3>
-
-  <p align="center">
-    A comprehensive machine learning and optimization solution for strategic EV charging infrastructure deployment
-    <br />
-    <a href="https://huggingface.co/spaces/Saira20/Optimal-EV-charging-stations">🌐 Live Dashboard</a>
-    ·
-    <a href="https://docs.google.com/presentation/d/1DvyXtf6PmHJlR4AY10__-B9UUPlWWLx9KHOHKlJr2W0/edit#slide=id.g20a8aeeec89_3_133">📊 Presentation</a>
-    ·
-    <a href="https://youtu.be/kW-kBFeq9E0">🎥 Video</a>
-    ·
-    <a href="https://github.com/akansh12/data-science-Optimal-EV-station-placement/blob/main/Report/Project_Report.pdf">📄 Report</a>
-  </p>
-</div>
+![Dashboard Preview](figures/dashboard.png)
 
 ## 📋 Table of Contents
 
@@ -116,7 +91,7 @@ features = [
 
 ## 📊 Dashboard Screenshot
 
-![Fast EV Charging Station Dashboard](https://github.com/akansh12/data-science-Optimal-EV-station-placement/assets/dashboard-screenshot.png)
+![Fast EV Charging Station Dashboard](figures/dashboard.png)
 
 *The interactive dashboard showing Saarbrucken analysis with optimized EV charging station locations, infrastructure overlays, and real-time optimization controls.*
 
